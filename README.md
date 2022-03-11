@@ -26,6 +26,13 @@
  - Mysql
  - Typescript
 
+ ### Pacotes que poderão ser usados
+
+ - npm
+ - typeOrm
+ - Sequelize
+ - Prisma
+
 ##  Hospedagem futura / Deploy
 
  - netlify / Heroku / Vercel
