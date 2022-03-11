@@ -13,3 +13,21 @@
 ### Como funciona
 
   O software tem que ser capaz de identificar os diferentes tipos de microestruturas presentes no modelo de "phanton" ACR, seguindo como score de validação, o da vigilância sanitária.
+
+## Tecnologias prováveis para utilização Frontend e Backend 
+ **OBS: sujeito a mudanças
+
+ - Html
+ - Css
+ - Javascript/Python
+ - node Js
+ - React
+ - Mongo
+ - Mysql
+ - Typescript
+
+##  Hospedagem futura / Deploy
+
+ - netlify / Heroku / Vercel
+
+
