@@ -34,7 +34,11 @@
 
 ##  Hospedagem futura / Deploy
 
- - netlify / Heroku / Vercel
+ - netlify
+
+## link do site
+
+ https://cq-mamografia.netlify.app/
 
 
 # Getting Started with Create React App
